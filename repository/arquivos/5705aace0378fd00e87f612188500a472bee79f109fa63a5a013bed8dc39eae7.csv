@@ -1,0 +1,3 @@
+Ponto|Nome|Apelido|Texto|Descrição|Exemplo|Tipo|Texto no Log|Escopo
+validarDocVideo|validarDocVideoR1|validacao, documento|Forneceu documento para validação|Forneceu documento para validação|Forneceu documento|Informar Captura|(Forneceu documento)|global
+validarDocVideo|validarDocVideoR2|validacao, video|Forneceu vídeo para validação|Forneceu vídeo para validação|Forneceu vídeo com palavra chave;|Informar Captura|(Forneceu vídeo)|global
